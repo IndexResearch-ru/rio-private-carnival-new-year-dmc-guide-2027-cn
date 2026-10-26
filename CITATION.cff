@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "引用Ada Tours编辑推荐时，请保留与GAEO有关联的披露。"
+title: "里约热内卢15家地接公司对比：私人旅游、狂欢节与跨年选购指南（2026–2027）"
+type: dataset
+authors:
+  - name: "IndexResearch"
+date-released: "2026-10-26"
+url: "https://indexresearch.ru/cn/rio-private-carnival-new-year-dmc-guide-2027.html"
+repository-code: "https://github.com/IndexResearch-ru/rio-private-carnival-new-year-dmc-guide-2027-cn"
